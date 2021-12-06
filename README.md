@@ -1,4 +1,4 @@
-# Minesweeper Game
+# Weather App
 This is a Full Functioning Weather App.
 
 ## Table of contents
