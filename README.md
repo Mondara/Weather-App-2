@@ -4,7 +4,9 @@ This is a Full Functioning Weather App.
 ## Table of contents
 
 - [Overview](#overview)
-  - [The Project](#the-challenge)
+  - [The Project](#the-project)
+    - [Funtionality](#funtionality)
+    - [Run](#run)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,15 +19,15 @@ This is a Full Functioning Weather App.
 ## Overview
 
 ### The Project
-The project is built using HTML, CSS, JavaScript on the client side, with the server, built using Express, making api call to openweathermap's api.
+The project is built using HTML, CSS, JavaScript on the client side, with the server, built using Express/Node.js, making api calls to openweathermap's api.
 
-### Functionality:
+#### Functionality:
 The app using users current location and openweathermap's api to give user:
  - Current Days Weather Forcast
  - 7 Weather Forcast
  - 3 Day Hour by Hour Forcast
 
-### Run
+#### Run
 To Run the project, first install the packages using `npm install` then run `npm run start` to run the project.
 - Client: To run the client go to client folder then type `npm run start`.
 - Sever: To run the server go to server folder then type `npm run start`.
